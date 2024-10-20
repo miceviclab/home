@@ -1,6 +1,6 @@
 ---
 name: Goran Micevic
-image: images/photo.jpg
+image: images/GM.jpg
 role: pi
 affiliation: Yale University
 aliases:

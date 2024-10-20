@@ -28,8 +28,6 @@ If you are interested in being part of the Pathology Graduate Program, please co
 {% include section.html %}
 
 
-{% endcapture %}
-
 {% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}

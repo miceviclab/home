@@ -13,7 +13,7 @@ Our published works:
 
 ## Highlighted
 
-{% include citation.html lookup="micevic g" style="rich" %}
+{% include citation.html style="rich" %}
 
 {% include section.html %}
 

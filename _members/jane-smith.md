@@ -1,20 +1,13 @@
 ---
-name: Jane Smith
+name: Goran Micevic
 image: images/photo.jpg
 role: pi
-affiliation: University of Colorado
+affiliation: Yale University
 aliases:
-  - J. Smith
-  - J Smith
+  - G. Micevic
 links:
-  home-page: https://janesmith.com
+  home-page: 
   orcid: 0000-0001-8713-9213
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Goran completed his undergraduate studies in molecular biology and computer science, followed by the MD/PhD program at Yale School of Medicine. 

@@ -1,7 +1,7 @@
 ---
 ---
 
-# MicevicLabDESCRIPTION=We are working on understanding the immune response against melanoma to develop new therapies and biomarkers for the benfit of patients. 
+# We are working on understanding the immune response against skin cancer to develop new therapies and biomarkers for the benfit of patients. 
 
 
 

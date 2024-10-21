@@ -1,10 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.pathol.2024.03.008
-  title: Tumour necrosis is a valuable histopathological prognostic parameter in melanomas
-    of the vulva and vagina
+- id: pubmed:39272944
+  title: Clinical and Histologic Variants of CD8+ Cutaneous T-Cell Lymphomas.
   authors:
-  - Simon F. Roy
+  - Madisen A Swallow
+  - Goran Micevic
+  - Amanda Zhou
+  - Kacie R Carlson
+  - Francine M Foss
+  - Michael Girardi
+  publisher: Cancers
+  date: '2024-09-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39272944
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38906758
+  title: Tumour necrosis is a valuable histopathological prognostic parameter in melanomas
+    of the vulva and vagina.
+  authors:
+  - Simon F Roy
   - Jumanah Baig
   - Ryan DeCoste
   - Sarah Finch
@@ -15,58 +30,56 @@
   - May Chergui
   - Kurosh Rahimi
   - Ashley Flaman
-  - Vincent Q.H. Trinh
+  - Vincent Q H Trinh
   - Allison Osmond
   publisher: Pathology
-  date: '2024-10-01'
-  link: https://doi.org/g8nmkr
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.pathol.2023.12.416
-  title: Cutaneous diatoms from diatomaceous earth mimicking myiasis infection
-  authors:
-  - Simon F. Roy
-  - Goran Micevic
-  - Jennifer M. McNiff
-  - Sean R. Christensen
-  - Shawn E. Cowper
-  publisher: Pathology
-  date: '2024-08-01'
-  link: https://doi.org/g8nmks
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/bjd/ljae126
+  date: '2024-05-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38906758
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38516835
   title: Melanoma tumour-infiltrating T-lymphocyte therapy heralds the era of cell-based
-    immunotherapies for solid tumours
+    immunotherapies for solid tumours.
   authors:
   - Ronan Talty
   - Rhys Richmond
   - Goran Micevic
-  publisher: British Journal of Dermatology
-  date: '2024-03-22'
-  link: https://doi.org/g8nmkt
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/bjd/ljad236
+  publisher: The British journal of dermatology
+  date: '2024-05-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38516835
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38471986
+  title: Cutaneous diatoms from diatomaceous earth mimicking myiasis infection.
+  authors:
+  - Simon F Roy
+  - Goran Micevic
+  - Jennifer M McNiff
+  - Sean R Christensen
+  - Shawn E Cowper
+  publisher: Pathology
+  date: '2024-02-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38471986
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37471669
   title: New insights into programmed cell death protein 1 blockade-associated cutaneous
-    immune-related adverse events
+    immune-related adverse events.
   authors:
   - Goran Micevic
   - Andrew Daniels
-  - "Richard\_A Flavell"
-  publisher: British Journal of Dermatology
-  date: '2023-07-20'
-  link: https://doi.org/g8nmkv
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1073/pnas.2304319120
-  title: "IL-7R licenses a population of epigenetically poised memory CD8\n      \
-    \      <sup>+</sup>\n            T cells with superior antitumor efficacy that\
-    \ are critical for melanoma memory"
+  - Richard A Flavell
+  publisher: The British journal of dermatology
+  date: '2023-09-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37471669
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37459511
+  title: IL-7R licenses a population of epigenetically poised memory CD8
   authors:
   - Goran Micevic
   - Andrew Daniels
@@ -75,114 +88,256 @@
   - Ronan Talty
   - Meaghan McGeary
   - Haris Mirza
-  - Holly N. Blackburn
+  - Holly N Blackburn
   - Esen Sefik
-  - Julie F. Cheung
-  - Noah I. Hornick
+  - Julie F Cheung
+  - Noah I Hornick
   - Lilach Aizenbud
-  - Nikhil S. Joshi
+  - Nikhil S Joshi
   - Harriet Kluger
   - Akiko Iwasaki
-  - Marcus W. Bosenberg
-  - Richard A. Flavell
-  publisher: Proceedings of the National Academy of Sciences
+  - Marcus W Bosenberg
+  - Richard A Flavell
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
   date: '2023-07-17'
-  link: https://doi.org/g8nmkw
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1158/1078-0432.CCR-22-0784
-  title: The Crossroads of Cancer Epigenetics and Immune Checkpoint Therapy
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37459511
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37292991
+  title: ''
+  authors:
+  - Meaghan K McGeary
+  - William Damsky
+  - Andrew Daniels
+  - Eric Song
+  - Goran Micevic
+  - Clotilde Huet-Calderwood
+  - Hua Jane Lou
+  - Sateja Paradkar
+  - Susan Kaech
+  - David A Calderwood
+  - Benjamin E Turk
+  - Akiko Iwasaki
+  - Marcus W Bosenberg
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2023-05-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37292991
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36449280
+  title: The Crossroads of Cancer Epigenetics and Immune Checkpoint Therapy.
   authors:
   - Goran Micevic
-  - Marcus W. Bosenberg
+  - Marcus W Bosenberg
   - Qin Yan
-  publisher: Clinical Cancer Research
-  date: '2022-11-30'
-  link: https://doi.org/g8nmkx
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/bjd.20939
-  title: 'Targeting the neonatal Fc receptor in pemphigus: safety first'
+  publisher: 'Clinical cancer research : an official journal of the American Association
+    for Cancer Research'
+  date: '2023-04-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36449280
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36262356
+  title: Erythrodermic scabies in an immunocompetent patient.
   authors:
-  - G. Micevic
-  - S.N. Lo
-  - N. Rajan
-  publisher: British Journal of Dermatology
+  - Ronan Talty
+  - Goran Micevic
+  - William Damsky
+  - Brett A King
+  publisher: JAAD case reports
+  date: '2022-09-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36262356
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36158852
+  title: Leukoderma Induced by Rotigotine Patch, a Transdermal Dopamine Agonist.
+  authors:
+  - Ronan Talty
+  - Goran Micevic
+  - Alice Wang
+  - Christine J Ko
+  - William Damsky
+  publisher: Case reports in dermatology
+  date: '2022-08-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36158852
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34961930
+  title: 'Targeting the neonatal Fc receptor in pemphigus: safety first.'
+  authors:
+  - G Micevic
+  - S N Lo
+  - N Rajan
+  publisher: The British journal of dermatology
   date: '2021-12-27'
-  link: https://doi.org/g8nmkz
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1073/pnas.1908003117
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34961930
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34671158
+  title: KDM5B promotes immune evasion by recruiting SETDB1 to silence retroelements.
+  authors:
+  - Shang-Min Zhang
+  - Wesley L Cai
+  - Xiaoni Liu
+  - Durga Thakral
+  - Jiesi Luo
+  - Lok Hei Chan
+  - Meaghan K McGeary
+  - Eric Song
+  - Kim R M Blenman
+  - Goran Micevic
+  - Shlomit Jessel
+  - Yangyi Zhang
+  - Mingzhu Yin
+  - Carmen J Booth
+  - Lucia B Jilaveanu
+  - William Damsky
+  - Mario Sznol
+  - Harriet M Kluger
+  - Akiko Iwasaki
+  - Marcus W Bosenberg
+  - Qin Yan
+  publisher: Nature
+  date: '2021-10-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34671158
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32953959
+  title: Perniolike lesions and coagulopathy in a patient with COVID-19 infection.
+  authors:
+  - Goran Micevic
+  - Jensa Morris
+  - Alfred Ian Lee
+  - Brett A King
+  publisher: JAAD case reports
+  date: '2020-09-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32953959
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32435413
+  title: Structure-Guided Identification of DNMT3B Inhibitors.
+  authors:
+  - Ana S Newton
+  - John C Faver
+  - Goran Micevic
+  - Viswanathan Muthusamy
+  - Shalley N Kudalkar
+  - Nicole Bertoletti
+  - Karen S Anderson
+  - Marcus W Bosenberg
+  - William L Jorgensen
+  publisher: ACS medicinal chemistry letters
+  date: '2020-02-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32435413
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31932421
   title: RAP80 and BRCA1 PARsylation protect chromosome integrity by preventing retention
-    of BRCA1-B/C complexes in DNA repair foci
+    of BRCA1-B/C complexes in DNA repair foci.
   authors:
   - Jekaterina Vohhodina
-  - Kimberly J. Toomire
-  - Sarah A. Petit
+  - Kimberly J Toomire
+  - Sarah A Petit
   - Goran Micevic
   - Geeta Kumari
-  - Vladimir V. Botchkarev
+  - Vladimir V Botchkarev
   - Zhe Li
-  - David M. Livingston
+  - David M Livingston
   - Yiduo Hu
-  publisher: Proceedings of the National Academy of Sciences
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
   date: '2020-01-13'
-  link: https://doi.org/g8nmk2
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/pcmr.12745
-  title: "PD\u2010L1 methylation regulates PD\u2010L1 expression and is associated\
-    \ with melanoma survival"
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31932421
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30343532
+  title: PD-L1 methylation regulates PD-L1 expression and is associated with melanoma
+    survival.
   authors:
   - Goran Micevic
   - Durga Thakral
   - Meaghan McGeary
-  - Marcus W. Bosenberg
-  publisher: Pigment Cell &amp; Melanoma Research
+  - Marcus W Bosenberg
+  publisher: Pigment cell & melanoma research
   date: '2018-11-22'
-  link: https://doi.org/gm2k9d
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/pcmr.12742
-  title: "Inhibition of isoprenylation synergizes with <scp>MAPK</scp> blockade to\
-    \ prevent growth in treatment\u2010resistant melanoma, colorectal, and lung cancer"
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30343532
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30281931
+  title: Inhibition of isoprenylation synergizes with MAPK blockade to prevent growth
+    in treatment-resistant melanoma, colorectal, and lung cancer.
   authors:
   - Nicholas Theodosakis
-  - Casey G. Langdon
+  - Casey G Langdon
   - Goran Micevic
   - Irina Krykbaeva
-  - Robert E. Means
-  - David F. Stern
-  - Marcus W. Bosenberg
-  publisher: Pigment Cell &amp; Melanoma Research
+  - Robert E Means
+  - David F Stern
+  - Marcus W Bosenberg
+  publisher: Pigment cell & melanoma research
   date: '2018-10-22'
-  link: https://doi.org/g8nmk3
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13148-017-0332-8
-  title: 'Aberrant DNA methylation in melanoma: biomarker and therapeutic opportunities'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30281931
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29387750
+  title: Balanitis associated with FOLFIRI chemotherapy.
+  authors:
+  - Goran Micevic
+  - Sara Harcharik Perkins
+  - Amanda E Zubek
+  publisher: JAAD case reports
+  date: '2017-12-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29387750
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28599981
+  title: p90RSK Blockade Inhibits Dual BRAF and MEK Inhibitor-Resistant Melanoma by
+    Targeting Protein Synthesis.
+  authors:
+  - Nicholas Theodosakis
+  - Goran Micevic
+  - Casey G Langdon
+  - Alessandra Ventura
+  - Robert Means
+  - David F Stern
+  - Marcus W Bosenberg
+  publisher: The Journal of investigative dermatology
+  date: '2017-06-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28599981
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28396701
+  title: 'Aberrant DNA methylation in melanoma: biomarker and therapeutic opportunities.'
   authors:
   - Goran Micevic
   - Nicholas Theodosakis
   - Marcus Bosenberg
-  publisher: Clinical Epigenetics
+  publisher: Clinical epigenetics
   date: '2017-04-04'
-  link: https://doi.org/gcqv43
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/pcmr.12591
-  title: "<scp>UV</scp>\u2010induced somatic mutations elicit a functional T cell\
-    \ response in the <scp>YUMMER</scp>1.7 mouse melanoma model"
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28396701
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28379630
+  title: UV-induced somatic mutations elicit a functional T cell response in the YUMMER1.7
+    mouse melanoma model.
   authors:
   - Jake Wang
-  - Curtis J. Perry
+  - Curtis J Perry
   - Katrina Meeth
   - Durga Thakral
   - William Damsky
@@ -190,43 +345,141 @@
   - Susan Kaech
   - Kim Blenman
   - Marcus Bosenberg
-  publisher: Pigment Cell &amp; Melanoma Research
+  publisher: Pigment cell & melanoma research
   date: '2017-06-08'
-  link: https://doi.org/gbkp22
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1097/CMR.0000000000000315
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28379630
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27997431
   title: Attenuation of genome-wide 5-methylcytosine level is an epigenetic feature
-    of cutaneous malignant melanomas
+    of cutaneous malignant melanomas.
   authors:
   - Goran Micevic
   - Nicholas Theodosakis
-  - Janis M. Taube
-  - Marcus W. Bosenberg
+  - Janis M Taube
+  - Marcus W Bosenberg
   - "Nemanja Rodi\u0107"
-  publisher: Melanoma Research
+  publisher: Melanoma research
   date: '2017-04-01'
-  link: https://doi.org/g8nmk4
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1369/0022155416651065
-  title: Cell and Tissue Display
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27997431
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27441745
+  title: Stereotactic Ablative Radiation Therapy Combined With Immunotherapy for Solid
+    Tumors.
+  authors:
+  - Eric D Brooks
+  - Jonathan E Schoenhals
+  - Chad Tang
+  - Goran Micevic
+  - Daniel R Gomez
+  - Joe Y Chang
+  - James W Welsh
+  publisher: Cancer journal (Sudbury, Mass.)
+  date: '2016-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27441745
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27301971
+  title: Genome-wide characterization of human L1 antisense promoter-driven transcripts.
+  authors:
+  - Steven W Criscione
+  - Nicholas Theodosakis
+  - Goran Micevic
+  - Toby C Cornish
+  - Kathleen H Burns
+  - Nicola Neretti
+  - "Nemanja Rodi\u0107"
+  publisher: BMC genomics
+  date: '2016-06-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27301971
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27287723
+  title: 'The YUMM lines: a series of congenic mouse melanoma cell lines with defined
+    genetic alterations.'
+  authors:
+  - Katrina Meeth
+  - Jake Xiao Wang
+  - Goran Micevic
+  - William Damsky
+  - Marcus W Bosenberg
+  publisher: Pigment cell & melanoma research
+  date: '2016-08-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27287723
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27270967
+  title: 'Cell and Tissue Display: An Alternative Multipurpose Tool for Microscopy.'
   authors:
   - Nicholas Theodosakis
   - Goran Micevic
-  - Marcus W. Bosenberg
+  - Marcus W Bosenberg
   - "Nemanja Rodi\u0107"
-  publisher: Journal of Histochemistry &amp; Cytochemistry
+  publisher: 'The journal of histochemistry and cytochemistry : official journal of
+    the Histochemistry Society'
   date: '2016-06-07'
-  link: https://doi.org/f8v36t
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.celrep.2016.02.010
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27270967
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26947078
+  title: Multilevel Genomics-Based Taxonomy of Renal Cell Carcinoma.
+  authors:
+  - Fengju Chen
+  - Yiqun Zhang
+  - "Yasin \u015Eenbabao\u011Flu"
+  - Giovanni Ciriello
+  - Lixing Yang
+  - Ed Reznik
+  - Brian Shuch
+  - Goran Micevic
+  - Guillermo De Velasco
+  - Eve Shinbrot
+  - Michael S Noble
+  - Yiling Lu
+  - Kyle R Covington
+  - Liu Xi
+  - Jennifer A Drummond
+  - Donna Muzny
+  - Hyojin Kang
+  - Junehawk Lee
+  - Pheroze Tamboli
+  - Victor Reuter
+  - Carl Simon Shelley
+  - Benny A Kaipparettu
+  - Donald P Bottaro
+  - Andrew K Godwin
+  - Richard A Gibbs
+  - Gad Getz
+  - Raju Kucherlapati
+  - Peter J Park
+  - Chris Sander
+  - Elizabeth P Henske
+  - Jane H Zhou
+  - David J Kwiatkowski
+  - Thai H Ho
+  - Toni K Choueiri
+  - James J Hsieh
+  - Rehan Akbani
+  - Gordon B Mills
+  - A Ari Hakimi
+  - David A Wheeler
+  - Chad J Creighton
+  publisher: Cell reports
+  date: '2016-03-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26947078
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26923591
   title: DNMT3b Modulates Melanoma Growth by Controlling Levels of mTORC2 Component
-    RICTOR
+    RICTOR.
   authors:
   - Goran Micevic
   - Viswanathan Muthusamy
@@ -237,267 +490,112 @@
   - Emily Wingrove
   - Manjula Santhanakrishnan
   - Marcus Bosenberg
-  publisher: Cell Reports
-  date: '2016-03-01'
-  link: https://doi.org/gt4566
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s12864-016-2800-5
-  title: Genome-wide characterization of human L1 antisense promoter-driven transcripts
-  authors:
-  - Steven W. Criscione
-  - Nicholas Theodosakis
-  - Goran Micevic
-  - Toby C. Cornish
-  - Kathleen H. Burns
-  - Nicola Neretti
-  - "Nemanja Rodi\u0107"
-  publisher: BMC Genomics
-  date: '2016-06-14'
-  link: https://doi.org/gkzhfn
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/pcmr.12464
-  title: Integrative discovery of <scp>CD</scp>98 as a melanoma biomarker
+  publisher: Cell reports
+  date: '2016-02-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26923591
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26850337
+  title: Integrative discovery of CD98 as a melanoma biomarker.
   authors:
   - Nicholas Theodosakis
   - Goran Micevic
   - Reema Sharma
-  - Alexander S. Baras
+  - Alexander S Baras
   - Rossitza Lazova
-  - Marcus W. Bosenberg
+  - Marcus W Bosenberg
   - "Nemanja Rodi\u0107"
-  publisher: Pigment Cell &amp; Melanoma Research
+  publisher: Pigment cell & melanoma research
   date: '2016-04-10'
-  link: https://doi.org/g8nmk5
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.celrep.2016.02.024
-  title: Multilevel Genomics-Based Taxonomy of Renal Cell Carcinoma
-  authors:
-  - Fengju Chen
-  - Yiqun Zhang
-  - "Yasin \u015Eenbabao\u011Flu"
-  - Giovanni Ciriello
-  - Lixing Yang
-  - Ed Reznik
-  - Brian Shuch
-  - Goran Micevic
-  - "Guillermo De\_Velasco"
-  - Eve Shinbrot
-  - "Michael\_S. Noble"
-  - Yiling Lu
-  - "Kyle\_R. Covington"
-  - Liu Xi
-  - "Jennifer\_A. Drummond"
-  - Donna Muzny
-  - Hyojin Kang
-  - Junehawk Lee
-  - Pheroze Tamboli
-  - Victor Reuter
-  - "Carl\_Simon Shelley"
-  - "Benny\_A. Kaipparettu"
-  - "Donald\_P. Bottaro"
-  - "Andrew\_K. Godwin"
-  - "Richard\_A. Gibbs"
-  - Gad Getz
-  - Raju Kucherlapati
-  - "Peter\_J. Park"
-  - Chris Sander
-  - "Elizabeth\_P. Henske"
-  - "Jane\_H. Zhou"
-  - "David\_J. Kwiatkowski"
-  - "Thai\_H. Ho"
-  - "Toni\_K. Choueiri"
-  - "James\_J. Hsieh"
-  - Rehan Akbani
-  - "Gordon\_B. Mills"
-  - "A.\_Ari Hakimi"
-  - "David\_A. Wheeler"
-  - "Chad\_J. Creighton"
-  publisher: Cell Reports
-  date: '2016-03-01'
-  link: https://doi.org/f8wb6t
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1097/PPO.0000000000000210
-  title: Stereotactic Ablative Radiation Therapy Combined With Immunotherapy for Solid
-    Tumors
-  authors:
-  - Eric D. Brooks
-  - Jonathan E. Schoenhals
-  - Chad Tang
-  - Goran Micevic
-  - Daniel R. Gomez
-  - Joe Y. Chang
-  - James W. Welsh
-  publisher: The Cancer Journal
-  date: '2016-07-01'
-  link: https://doi.org/f8z76b
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/pcmr.12498
-  title: 'The <scp>YUMM</scp> lines: a series of congenic mouse melanoma cell lines
-    with defined genetic alterations'
-  authors:
-  - Katrina Meeth
-  - Jake Xiao Wang
-  - Goran Micevic
-  - William Damsky
-  - Marcus W. Bosenberg
-  publisher: Pigment Cell &amp; Melanoma Research
-  date: '2016-08-03'
-  link: https://doi.org/f87xn4
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1158/1535-7163.MCT-15-0080
-  title: BRAF Inhibition Decreases Cellular Glucose Uptake in Melanoma in Association
-    with Reduction in Cell Volume
-  authors:
-  - Nicholas Theodosakis
-  - Matthew A. Held
-  - Alexander Marzuka-Alcala
-  - Katrina M. Meeth
-  - Goran Micevic
-  - Georgina V. Long
-  - Richard A. Scolyer
-  - David F. Stern
-  - Marcus W. Bosenberg
-  publisher: Molecular Cancer Therapeutics
-  date: '2015-07-01'
-  link: https://doi.org/f7jv5t
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.cell.2015.08.012
-  title: Phosphoenolpyruvate Is a Metabolic Checkpoint of Anti-tumor T Cell Responses
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26850337
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26321681
+  title: Phosphoenolpyruvate Is a Metabolic Checkpoint of Anti-tumor T Cell Responses.
   authors:
   - Ping-Chih Ho
-  - "Jessica\_Dauz Bihuniak"
-  - "Andrew\_N. Macintyre"
+  - Jessica Dauz Bihuniak
+  - Andrew N Macintyre
   - Matthew Staron
   - Xiaojing Liu
   - Robert Amezquita
   - Yao-Chen Tsui
   - Guoliang Cui
   - Goran Micevic
-  - "Jose\_C. Perales"
-  - "Steven\_H. Kleinstein"
-  - "E.\_Dale Abel"
-  - "Karl\_L. Insogna"
+  - Jose C Perales
+  - Steven H Kleinstein
+  - E Dale Abel
+  - Karl L Insogna
   - Stefan Feske
-  - "Jason\_W. Locasale"
-  - "Marcus\_W. Bosenberg"
-  - "Jeffrey\_C. Rathmell"
-  - "Susan\_M. Kaech"
+  - Jason W Locasale
+  - Marcus W Bosenberg
+  - Jeffrey C Rathmell
+  - Susan M Kaech
   publisher: Cell
-  date: '2015-09-01'
-  link: https://doi.org/f7rrsb
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.ccell.2014.11.014
-  title: mTORC1 Activation Blocks BrafV600E-Induced Growth Arrest but Is Insufficient
-    for Melanoma Formation
+  date: '2015-08-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26321681
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25948295
+  title: BRAF Inhibition Decreases Cellular Glucose Uptake in Melanoma in Association
+    with Reduction in Cell Volume.
+  authors:
+  - Nicholas Theodosakis
+  - Matthew A Held
+  - Alexander Marzuka-Alcala
+  - Katrina M Meeth
+  - Goran Micevic
+  - Georgina V Long
+  - Richard A Scolyer
+  - David F Stern
+  - Marcus W Bosenberg
+  publisher: Molecular cancer therapeutics
+  date: '2015-05-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25948295
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25584893
+  title: mTORC1 activation blocks BrafV600E-induced growth arrest but is insufficient
+    for melanoma formation.
   authors:
   - William Damsky
   - Goran Micevic
   - Katrina Meeth
   - Viswanathan Muthusamy
-  - "David\_P. Curley"
+  - David P Curley
   - Manjula Santhanakrishnan
   - Ildiko Erdelyi
-  - "James\_T. Platt"
+  - James T Platt
   - Laura Huang
   - Nicholas Theodosakis
-  - "M.\_Raza Zaidi"
+  - M Raza Zaidi
   - Scott Tighe
-  - "Michael\_A. Davies"
+  - Michael A Davies
   - David Dankort
   - Martin McMahon
   - Glenn Merlino
   - Nabeel Bardeesy
   - Marcus Bosenberg
-  publisher: Cancer Cell
-  date: '2015-01-01'
-  link: https://doi.org/f6v6m8
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.abb.2014.06.028
-  title: Mitochondrial function in melanoma
+  publisher: Cancer cell
+  date: '2015-01-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25584893
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24997363
+  title: Mitochondrial function in melanoma.
   authors:
   - Nicholas Theodosakis
   - Goran Micevic
-  - Daniel P. Kelly
+  - Daniel P Kelly
   - Marcus Bosenberg
-  publisher: Archives of Biochemistry and Biophysics
-  date: '2014-12-01'
-  link: https://doi.org/f6p9vd
-  orcid: 0000-0003-0329-1053
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  publisher: Archives of biochemistry and biophysics
+  date: '2014-07-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24997363
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml

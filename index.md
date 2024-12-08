@@ -1,7 +1,7 @@
 ---
 ---
 
-# We are working on understanding the immune response against skin cancer to develop new therapies and biomarkers for the benefit of patients. 
+# We want to understand the immune response against skin cancer to develop new therapies for patients. 
 
 
 
@@ -11,7 +11,9 @@
 
 {% capture text %}
 
-Our group is broadly interested in melanoma epigenetics and with specific interests in identifying epigenetic mechanisms regulating anti tumor immunity and functio.   Using mouse models, single cell approaches (scRNA-Seq, ATACseq), genetic perturbation tools (CRISPR) and clinical tissues samples, the group aims to lay the foundation for the next-generation of cancer immunotherapies. See ACIR's coverage of <a href="https://acir.org/weekly-digests/2023/august/il-7rhi-cd8-t-cells-keep-cancer-from-making-a-comeback"> our work. </a>
+Our group is broadly interested in melanoma epigenetics and with specific interests in identifying epigenetic mechanisms regulating anti tumor immunity and functio.   Using mouse models, single cell approaches (scRNA-Seq, ATACseq), genetic perturbation tools (CRISPR) and clinical tissues samples, the group aims to lay the foundation for the next-generation of cancer immunotherapies. 
+<br><br>
+See ACIR's coverage of <a href="https://acir.org/weekly-digests/2023/august/il-7rhi-cd8-t-cells-keep-cancer-from-making-a-comeback"> our work. </a>
 
 <br><br> Hear a lay summary of our resecent research here: 
 <audio controls> 

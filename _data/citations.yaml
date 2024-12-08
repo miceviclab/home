@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:39589394
+  title: Setdb1-loss induces type-I interferons and immune clearance of melanoma.
+  authors:
+  - Meaghan K McGeary
+  - William Damsky
+  - Andrew J Daniels
+  - Sabine M Lang
+  - Qingji Xu
+  - Eric Song
+  - Clotilde Huet-Calderwood
+  - Hua Jane Lou
+  - Sateja Paradkar
+  - Goran Micevic
+  - Susan M Kaech
+  - David A Calderwood
+  - Benjamin E Turk
+  - Qin Yan
+  - Akiko Iwasaki
+  - Marcus W Bosenberg
+  publisher: Cancer immunology research
+  date: '2024-11-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39589394
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:39272944
   title: Clinical and Histologic Variants of CD8+ Cutaneous T-Cell Lymphomas.
   authors:

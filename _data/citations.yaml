@@ -1,7 +1,207 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:40828991
+  title: Cytotoxic CD8+ T Cells Downregulate GPX4 to Promote Ferroptosis in Melanoma
+    that Drives Antitumor Immunity.
+  authors:
+  - Karine Flem-Karlsen
+  - Ronan Talty
+  - Meaghan K McGeary
+  - Koonam Park
+  - Durga Thakral
+  - Veronica T Brooks
+  - Andrew J Daniels
+  - William Damsky
+  - Simon F Roy
+  - Goran Micevic
+  - Marcus Bosenberg
+  publisher: Cancer research
+  date: '2025-08-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40828991
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40608341
+  title: Pathologist-Read vs AI-Driven Assessment of Tumor-Infiltrating Lymphocytes
+    in Melanoma.
+  authors:
+  - Thazin N Aung
+  - Matthew Liu
+  - David Su
+  - Saba Shafi
+  - Ceren Boyaci
+  - Sanna Steen
+  - Nikolaos Tsiknakis
+  - Joan Martinez Vidal
+  - Nigel Maher
+  - Goran Micevic
+  - Samuel X Tan
+  - Matthew D Vesely
+  - Saeed Nourmohammadi
+  - Yalai Bai
+  - Dijana Djureinovic
+  - Pok Fai Wong
+  - Katherine Bates
+  - Nay N N Chan
+  - Niki Gavirelatou
+  - Mengni He
+  - Sneha Burela
+  - Robert Barna
+  - Martina Bosic
+  - "Konstantin Br\xE4utigam"
+  - Irineu Illabochaca
+  - Zhou Chenhao
+  - Joao Gama
+  - Bianca Kreis
+  - Reka Mohacsi
+  - Nir Pillar
+  - Joao Pinto
+  - Christos Poulios
+  - Maria Angeliki Toli
+  - Evangelos Tzoras
+  - Yadriel Bracero
+  - Francesca Bosisio
+  - "G\xE1bor Cserni"
+  - Alis Dema
+  - Francesco Fortarezza
+  - Mercedes Solorzano Gonzalez
+  - Irene Gullo
+  - "Francisco Javier Queipo Guti\xE9rrez"
+  - Ezgi Hacihasanoglu
+  - Viktor Jovic
+  - Bianca Lazar
+  - Maria Olinca
+  - Christina Neppl
+  - Rui Caetano Oliveira
+  - Federica Pezzuto
+  - Daniel Gomes Pinto
+  - Vanda Plotar
+  - Ovidiu Pop
+  - Tilman Rau
+  - Kristijan Skok
+  - Wenwen Sun
+  - Ezgi Dicle Serbes
+  - Wiebke Solass
+  - Olga Stanowska
+  - Marcell Szasz
+  - Krzysztof Szymonski
+  - Franziska Thimm
+  - Danielle Vignati
+  - Alon Vigdorovits
+  - Victor Prieto
+  - Tobias Sinnberg
+  - James Wilmott
+  - Shawn Cowper
+  - Jonathan Warrell
+  - Yvonne Saenger
+  - Johan Hartman
+  - Jasmine Plummer
+  - Iman Osman
+  - David L Rimm
+  - Balazs Acs
+  publisher: JAMA network open
+  date: '2025-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40608341
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40307913
+  title: 'DNA methylation in melanoma immunotherapy: mechanisms and therapeutic opportunities.'
+  authors:
+  - Maya G Deshmukh
+  - Veronica T Brooks
+  - Simon F Roy
+  - Simon Milette
+  - Marcus Bosenberg
+  - Goran Micevic
+  publisher: Clinical epigenetics
+  date: '2025-04-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40307913
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40091844
+  title: Epigenetic therapy sensitizes anti-PD-1 refractory head and neck cancers
+    to immunotherapy rechallenge.
+  authors:
+  - Tingting Qin
+  - Austin K Mattox
+  - Jean S Campbell
+  - Jong Chul Park
+  - Kee-Young Shin
+  - Shiting Li
+  - Peter M Sadow
+  - William C Faquin
+  - Goran Micevic
+  - Andrew J Daniels
+  - Robert Haddad
+  - Christopher S Garris
+  - Mikael J Pittet
+  - Thorsten R Mempel
+  - Anne ONeill
+  - Maureen A Sartor
+  - Sara I Pai
+  publisher: The Journal of clinical investigation
+  date: '2025-03-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40091844
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40020225
+  title: Engineering Mice to Study Human Immunity.
+  authors:
+  - Esen Sefik
+  - Tianli Xiao
+  - Michael Chiorazzi
+  - Ian Odell
+  - Fengrui Zhang
+  - Kriti Agrawal
+  - Goran Micevic
+  - Richard A Flavell
+  publisher: Annual review of immunology
+  date: '2025-02-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40020225
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39949516
+  title: "Non-uremic calciphylaxis: A\_dermatologic complication in both MASH and\
+    \ alcohol-associated cirrhosis."
+  authors:
+  - Dylan Rose Balter
+  - Yueming Cao
+  - James Garritano
+  - Goran Micevic
+  - Andrew Sanchez
+  publisher: Clinical nephrology. Case studies
+  date: '2025-02-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39949516
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39690227
+  title: The 2024 generation.
+  authors:
+  - Shruthy Suresh Aggarwal
+  - Cristina Andreani
+  - Zihou Deng
+  - Julia Frede
+  - Polina Kameneva
+  - Marta Kovatcheva
+  - Goran Micevic
+  - Fay Nicolson
+  - Jens Puschhof
+  - Morgan Roberts
+  - Gang Wang
+  - Dionysios C Watson
+  publisher: Nature cancer
+  date: '2024-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39690227
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:39589394
-  title: Setdb1-loss induces type-I interferons and immune clearance of melanoma.
+  title: Setdb1 Loss Induces Type I Interferons and Immune Clearance of Melanoma.
   authors:
   - Meaghan K McGeary
   - William Damsky
@@ -20,7 +220,7 @@
   - Akiko Iwasaki
   - Marcus W Bosenberg
   publisher: Cancer immunology research
-  date: '2024-11-26'
+  date: '2025-02-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39589394
   term: Micevic, G[Author]
   plugin: pubmed.py

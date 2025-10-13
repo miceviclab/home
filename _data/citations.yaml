@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:41068129
+  title: EGFR-STAT1 pathway drives fibrosis initiation in fibroinflammatory skin diseases.
+  authors:
+  - Anahi V Odell
+  - Nathan M Newton
+  - Anna Eisenstein
+  - Goran Micevic
+  - Richard A Flavell
+  - Ian D Odell
+  publisher: Nature communications
+  date: '2025-10-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41068129
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:40828991
   title: Cytotoxic CD8+ T Cells Downregulate GPX4 to Promote Ferroptosis in Melanoma
     that Drives Antitumor Immunity.

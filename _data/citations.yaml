@@ -1,5 +1,158 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42465330
+  title: "Targeting DNMT1 augments anti-tumor CD8\u207A T cell function."
+  authors:
+  - Maya G Deshmukh
+  - Danielle Sohai
+  - Kamal Obbad
+  - Koonam Park
+  - Simon Milette
+  - Peili Gu
+  - Henna S Nam
+  - Andrew J Daniels
+  - Krasimir A Spasov
+  - Michael Hurwitz
+  - Samuel Katz
+  - Richard A Flavell
+  - Karen S Anderson
+  - Marcus Bosenberg
+  - Goran Micevic
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2026-07-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42465330
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:42033149
+  title: "Misinformation is present in\_popular social media content about melanoma."
+  authors:
+  - Rhys L Richmond
+  - Michal Kidacki
+  - Goran Micevic
+  publisher: Clinical and experimental dermatology
+  date: '2026-08-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42033149
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:42016784
+  title: 'Cutaneous metastatic carcinoma from gastric adenocarcinoma: Atypical facial
+    and neck eczematous presentation.'
+  authors:
+  - Scott Kuan-Wen Wang
+  - Dean George
+  - Goran Micevic
+  publisher: JAAD case reports
+  date: '2026-03-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42016784
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:41524276
+  title: Training Tomorrow's Leaders in Cancer Immunology.
+  authors:
+  - Yuqi Tan
+  - B J Kim
+  - Adriana M Mujal
+  - Alex C Y Chen
+  - Allison M Weis
+  - Elisa Bergaggio
+  - Goran Micevic
+  - Hongyan Xie
+  - Joon Seok Park
+  - Jyh Liang Hor
+  - Michael Papanicolaou
+  - Nour Shobaki
+  - Pablo Domizi
+  - Rebecca B Delconte
+  - Roberto Vendramin
+  - Samarth Hegde
+  - SeongJun Han
+  - Yapeng Su
+  - Nir Hacohen
+  publisher: Cancer immunology research
+  date: '2026-02-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41524276
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:41479397
+  title: Leveraging Interpretable AI for Deciphering Signature Histopathologic Patterns.
+  authors:
+  - Jeff R Gehlhausen
+  - Sophia T Luyten
+  - Jun Deng
+  - Goran Micevic
+  - Jeffrey M Cohen
+  - William Damsky
+  - Shawn E Cowper
+  - Jennifer M McNiff
+  - Christine J Ko
+  publisher: Journal of cutaneous pathology
+  date: '2026-01-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41479397
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:41423587
+  title: Lipophilic Statins Deplete GPX4 to Promote Ferroptosis and Sensitize Cancer
+    Cells to Immune Checkpoint Blockade.
+  authors:
+  - Ronan Talty
+  - Veronica T Brooks
+  - Meaghan K McGeary
+  - Simon Milette
+  - Sijin Zheng
+  - Karine Flem-Karlsen
+  - Andrew Daniels
+  - Maya Deshmukh
+  - Koonam Park
+  - Will Caraccio
+  - Hong Yan
+  - Caroline Echeandia-Francis
+  - Madeline McNamara
+  - Suyeon Hong
+  - David S Kirwin
+  - Kelly Olino
+  - Caroline H Johnson
+  - Marcus Bosenberg
+  - Goran Micevic
+  - Simon F Roy
+  publisher: Molecular cancer therapeutics
+  date: '2026-05-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41423587
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:41280049
+  title: CD8 T cells mediate immunosurveillance for neoantigen+ epithelial stem cells
+    in the colon.
+  authors:
+  - Jessica Buck
+  - Nivedita R Iyer
+  - Eric Fagerberg
+  - Goran Micevic
+  - Jiaming He
+  - Kerri St Denis
+  - Vyom Shah
+  - Holly Nicole Blackburn
+  - Srividhya Venkatesan
+  - John Attanasio
+  - Brian G Hunt
+  - Alex Dalrymple
+  - Liza Konnikova
+  - Semir Beyaz
+  - Martina Damo
+  - Carmen J Booth
+  - Kelli A Connolly
+  - Nikhil S Joshi
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2025-10-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41280049
+  term: Micevic, G[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:41068129
   title: EGFR-STAT1 pathway drives fibrosis initiation in fibroinflammatory skin diseases.
   authors:
@@ -17,7 +170,7 @@
   file: pubmed.yaml
 - id: pubmed:40828991
   title: Cytotoxic CD8+ T Cells Downregulate GPX4 to Promote Ferroptosis in Melanoma
-    that Drives Antitumor Immunity.
+    That Drives Antitumor Immunity.
   authors:
   - Karine Flem-Karlsen
   - Ronan Talty
@@ -31,7 +184,7 @@
   - Goran Micevic
   - Marcus Bosenberg
   publisher: Cancer research
-  date: '2025-08-19'
+  date: '2025-11-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40828991
   term: Micevic, G[Author]
   plugin: pubmed.py
